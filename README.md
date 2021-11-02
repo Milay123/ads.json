@@ -1,2 +1,0 @@
-# ads.json
-ads.json
