@@ -1,14 +1,37 @@
-{"Version":"1.1","Url":"https://github.com/Milay123/ads.json/raw/main/PANDA-NET-PRO.zip","Text":"📢 New Update 
- 
-🆙ဖိုင်အပ်ဒိပ်အသေးစိတ် (1.1)​
-📌ဖိုင်အသစ်
-🎮 Online Gameအတွက် ဖိုင်တိုးထား
-▶️အသုံးပြုနိုင်တဲ့ဆင်းမ်ကဒ် 💙DTAC&❤️TRUE
- 
-📳လိုင်ကောင်းသုံးချင်ရင်
-📳အပ်ဒိတ်လုပ်ရန် OK ကိုနှိပ်လိုက်ပါ
-📳အပ်ဒိတ် ပြီးမြောက်သည်အထိ စောင့်ပေးပါ
- 
-🤔ပြဿနာတစ်ခုခုကို သတင်းပို့ချင်တယ်။
-🤔အသေးစိတ်မေးမြန်းလိုပါက
-🤔ကျနော်ရဲ့Cbသို့ဆက်သွယ်လာပါဗျ"}
+{
+   "files": [    
+
+{
+         "name": "TH-FREE-001",
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-FREE-001.ovpn"
+     },
+
+{
+         "name": "TH-FREE-002",
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-FREE-002.ovpn"
+     },
+
+{
+         "name": "TH-FREE-003",
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-FREE-003.ovpn"
+     },
+
+{
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-VIP-016.ovpn"
+      }
+
+
+   ],
+"message":"
+ဖိုင်ဗားရှင်း(1.1)\n \n🙏အားလုံးပဲ မင်္ဂလာပါဗျာ🙏အားပေးသူ
+တစ်ယောက်ချင်းစီကို ကျေးဇူးတင်ပါတယ်နော်
+ဂိမ်းသမားများအတွက်ကို ဦးစားပေးပြီးတော့အကောင်းဆုံးဖြစ်အောင်လုပ်ထားပါသည်
+🎯ဘေလ်သုညနှင့်အသုံးပြုနိူင်သည့်ဆင်းမ် Dtac နဲ့ TrueMove 
+
+(အဆင်မပြေတာရှိရင် Cb မှာပြောနိူင်သည်)
+
+-\n\n-",
+   "title":"ဖိုင်ဗားရှင်းအသစ်",
+   "version": 1
+}
