@@ -3,54 +3,52 @@
 
 {
          "name": "TH-DTAC-VIP-001",
-         "url": "https://sshsslvpn.000webhostapp.com/Game-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-001.ovpn"
       },
-
 
 {
          "name": "TH-DTAC-VIP-002",
-         "url": "https://sshsslvpn.000webhostapp.com/Game-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-002.ovpn"
       },
 {
          "name": "TH-DTAC-VIP-003",
-         "url": "https://sshsslvpn.000webhostapp.com/Game-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-003.ovpn"
       },
 
 {
          "name": "TH-DTAC-VIP-004",
-         "url": "https://sshsslvpn.000webhostapp.com/Game-004.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-004.ovpn"
       },
-
-
+      
 {
          "name": "TH-DTAC-VIP-005",
-         "url": "https://sshsslvpn.000webhostapp.com/Game-005.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-005.ovpn"
       },
 
 
 {
          "name": "TH-TRUE-VIP-001",
-         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-001.ovpn"
       },
 
 
 {
          "name": "TH-TRUE-VIP-002",
-         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-002.ovpn"
       },
 {
          "name": "TH-TRUE-VIP-003",
-         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-003.ovpn"
       },
 
 {
          "name": "TH-TRUE-VIP-004",
-         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-004.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-004.ovpn"
       },
-  
+      
 {
          "name": "TH-TRUE-VIP-005",
-         "url": "https://sshsslvpn.000webhostapp.com/Dtac-Work-005.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-005.ovpn"
       }
 
 
