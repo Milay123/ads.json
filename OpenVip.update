@@ -3,17 +3,17 @@
 
 {
          "name": "TH-DTAC-VIP-001",
-         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-DTAC-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/OpenVip-DTAC-VIP-01.ovpn"
       },
 
 {
          "name": "TH-TRUE-VIP-001",
-         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/OpenVip-TRUE-VIP-01.ovpn"
       },
       
 {
          "name": "TH-AIS-VIP-001",
-         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/TH-TRUE-VIP-005.ovpn"
+         "url": "https://raw.githubusercontent.com/Milay123/ads.json/main/OpenVip-AIS-VIP-01.ovpn"
       }
 
 
