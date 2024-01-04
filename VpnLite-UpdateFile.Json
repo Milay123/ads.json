@@ -1,15 +1,19 @@
 {
-"Version_update": "3.5",
-"Link_zip":"https://github.com/Milay123/ads.json/raw/main/VpnLite.zip",
-"Password": "VpnLite778#",
-"Message": "📢New Update
-
-⚠️ ဖိုင်အားလုံးပြင်ပြီးပါပြီး🥰
-
-Dtac Line *𝟭𝟬𝟰*𝟳𝟳𝟳# 53ဘတ် တစ်လစာ
-📤 ဖိုင်အပ်ဒိပ်ဗာရှင်း (3.5) 
-🇹🇭TH GAME 10ဖိုင်
-🛑 အပ်ဒိတ်လုပ်ရန် OK ကိုနှိပ်ပါ 🛑
-👉 Update 100%ပြည့်တဲ့အထိစောင့်ပေးပါ
-
-💢VpnLite💢"}
+    "version": 1.0,
+    "message": "Free100% 
+📶Dtac NoPro ✅
+📶TrueMove NoPro ✅
+📶AisPlay+64Kbpsစမတ်",
+    "data": [
+    {
+    "name": "Thailand-01 AIS",
+    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
+    "name": "Thailand-01 DTAC",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkR0YWMtVmlwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+    "name": "Thailand-01 TRUEร",
+    "content": "vmess://eyJhZGQiOiIxMDQuMTYuODcuMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2M2QzZjYyYy04YWVmLTQ0ZDktOTI2MS01N2QyODNjYjk4NzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    }
+    ]
+    }
