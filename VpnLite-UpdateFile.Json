@@ -1,19 +1,70 @@
 {
-    "version": 1.0,
+    "version": 1.1,
     "message": "Free100% 
-📶Dtac NoPro ✅
-📶TrueMove NoPro ✅
-📶AisPlay+64Kbpsစမတ်",
+📶Dtac NoPro ✅ 5ဖိုင်
+📶TrueMove NoPro ✅ 5ဖိုင်
+📶AisPlay+64Kbpsစမတ်✅ 5ဖိုင်
+Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "data": [
     {
-    "name": "Thailand-01 AIS",
+    "name": "Thailand-01 AIS Play+64Kbps",
     "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
-    "name": "Thailand-01 DTAC",
+    },
+{
+    "name": "Thailand-02 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijg2ZWI4YWVkLWQ3MzMtNGUzNS1iNjNkLWQyNjQxN2IyOWFmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+{
+    "name": "Thailand-03 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijk3ODc5NmRjLThhYWItNDM1ZS1hNThiLTRkNjE4NjBiODY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+{
+    "name": "Thailand-04 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjU0MWEwYzFjLWJmN2UtNDQxNy1iMjNkLTJhOTdiOWI0OGEyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+{
+    "name": "Thailand-05 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImM2NjJkMGJiLTVkNmYtNDAxNy05ZGIwLTU2NWEzNzI4ZjU1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+{
+    "name": "Thailand-01 DTAC NoFree",
     "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkR0YWMtVmlwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-    "name": "Thailand-01 TRUE",
-    "content": "vmess://eyJhZGQiOiIxMDQuMTYuODcuMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2M2QzZjYyYy04YWVmLTQ0ZDktOTI2MS01N2QyODNjYjk4NzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-02 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6Ijg2ZWI4YWVkLWQ3MzMtNGUzNS1iNjNkLWQyNjQxN2IyOWFmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+{
+    "name": "Thailand-03 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6Ijk3ODc5NmRjLThhYWItNDM1ZS1hNThiLTRkNjE4NjBiODY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+{
+    "name": "Thailand-04 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6IjU0MWEwYzFjLWJmN2UtNDQxNy1iMjNkLTJhOTdiOWI0OGEyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+{
+    "name": "Thailand-05 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6ImM2NjJkMGJiLTVkNmYtNDAxNy05ZGIwLTU2NWEzNzI4ZjU1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+{
+    "name": "Thailand-01 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2M2QzZjYyYy04YWVmLTQ0ZDktOTI2MS01N2QyODNjYjk4NzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-02 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI4NmViOGFlZC1kNzMzLTRlMzUtYjYzZC1kMjY0MTdiMjlhZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-03 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI5Nzg3OTZkYy04YWFiLTQzNWUtYTU4Yi00ZDYxODYwYjg2NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-04 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI1NDFhMGMxYy1iZjdlLTQ0MTctYjIzZC0yYTk3YjliNDhhMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-05 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiJjNjYyZDBiYi01ZDZmLTQwMTctOWRiMC01NjVhMzcyOGY1NWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }
     ]
     }
