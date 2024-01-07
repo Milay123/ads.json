@@ -1,70 +1,134 @@
 {
-    "version": 1.1,
+    "version": 1.2,
     "message": "Free100% 
-📶Dtac NoPro ✅ 5ဖိုင်
-📶TrueMove NoPro ✅ 5ဖိုင်
-📶AisPlay+64Kbpsစမတ်✅ 5ဖိုင်
+📶Dtac NoPro ✅ 9ဖိုင်
+📶TrueMove NoPro ✅ 9ဖိုင်
+📶AisPlay+64Kbpsစမတ်✅ 9ဖိုင်
 Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "data": [
     {
     "name": "Thailand-01 AIS Play+64Kbps",
-    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNjNkM2Y2MmMtOGFlZi00NGQ5LTkyNjEtNTdkMjgzY2I5ODcxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 {
     "name": "Thailand-02 AIS Play+64Kbps",
-    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijg2ZWI4YWVkLWQ3MzMtNGUzNS1iNjNkLWQyNjQxN2IyOWFmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiODZlYjhhZWQtZDczMy00ZTM1LWI2M2QtZDI2NDE3YjI5YWZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 {
     "name": "Thailand-03 AIS Play+64Kbps",
-    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijk3ODc5NmRjLThhYWItNDM1ZS1hNThiLTRkNjE4NjBiODY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTc4Nzk2ZGMtOGFhYi00MzVlLWE1OGItNGQ2MTg2MGI4NjVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 {
     "name": "Thailand-04 AIS Play+64Kbps",
-    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjU0MWEwYzFjLWJmN2UtNDQxNy1iMjNkLTJhOTdiOWI0OGEyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNTQxYTBjMWMtYmY3ZS00NDE3LWIyM2QtMmE5N2I5YjQ4YTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
+
 {
     "name": "Thailand-05 AIS Play+64Kbps",
-    "content": "vmess://eyJhZGQiOiJodGV0MS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImM2NjJkMGJiLTVkNmYtNDAxNy05ZGIwLTU2NWEzNzI4ZjU1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WaXA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYzY2MmQwYmItNWQ2Zi00MDE3LTlkYjAtNTY1YTM3MjhmNTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
+
+{
+    "name": "Thailand-06 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiY2MwNmZiZDAtYzY1Yy00NjRmLWFiMDctNDFkZTA2MGNkM2ZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-07 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYmY5OGY3NTEtYWY0MC00MTYxLThkMzktMjYwMjExMTM0MDY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-08 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmM3NDkyMzUtN2I2YS00MjhlLTgxMmUtYjg3NzkwYjhhNTQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-09 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJ2MnJheS5mcmVlMS52cG5zc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYzIzNjhiMDAtMGJlOC00NmI0LTk5OGEtYjVjZWZjMmM0MTE3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiQUlTLVZpcDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
 {
     "name": "Thailand-01 DTAC NoFree",
-    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkR0YWMtVmlwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiNjNkM2Y2MmMtOGFlZi00NGQ5LTkyNjEtNTdkMjgzY2I5ODcxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
 {
     "name": "Thailand-02 DTAC NoFree",
-    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6Ijg2ZWI4YWVkLWQ3MzMtNGUzNS1iNjNkLWQyNjQxN2IyOWFmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiODZlYjhhZWQtZDczMy00ZTM1LWI2M2QtZDI2NDE3YjI5YWZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
 {
     "name": "Thailand-03 DTAC NoFree",
-    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6Ijk3ODc5NmRjLThhYWItNDM1ZS1hNThiLTRkNjE4NjBiODY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiOTc4Nzk2ZGMtOGFhYi00MzVlLWE1OGItNGQ2MTg2MGI4NjVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
 {
     "name": "Thailand-04 DTAC NoFree",
-    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6IjU0MWEwYzFjLWJmN2UtNDQxNy1iMjNkLTJhOTdiOWI0OGEyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiNTQxYTBjMWMtYmY3ZS00NDE3LWIyM2QtMmE5N2I5YjQ4YTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
+
 {
     "name": "Thailand-05 DTAC NoFree",
-    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHRldDEuc3BhcnQuY2xvdWQiLCJpZCI6ImM2NjJkMGJiLTVkNmYtNDAxNy05ZGIwLTU2NWEzNzI4ZjU1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkRUQUMtVmlwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiYzY2MmQwYmItNWQ2Zi00MDE3LTlkYjAtNTY1YTM3MjhmNTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
 {
+    "name": "Thailand-06 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiY2MwNmZiZDAtYzY1Yy00NjRmLWFiMDctNDFkZTA2MGNkM2ZlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+
+{
+    "name": "Thailand-07 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiYmY5OGY3NTEtYWY0MC00MTYxLThkMzktMjYwMjExMTM0MDY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+
+{
+    "name": "Thailand-08 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiMmM3NDkyMzUtN2I2YS00MjhlLTgxMmUtYjg3NzkwYjhhNTQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+
+{
+    "name": "Thailand-09 DTAC NoFree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkuZnJlZTEudnBuc3NoLm9ubGluZSIsImlkIjoiYzIzNjhiMDAtMGJlOC00NmI0LTk5OGEtYjVjZWZjMmM0MTE3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRFRBQy1WaXA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+
+{
     "name": "Thailand-01 TRUE NoFree",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2M2QzZjYyYy04YWVmLTQ0ZDktOTI2MS01N2QyODNjYjk4NzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6IjYzZDNmNjJjLThhZWYtNDRkOS05MjYxLTU3ZDI4M2NiOTg3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
 {
     "name": "Thailand-02 TRUE NoFree",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI4NmViOGFlZC1kNzMzLTRlMzUtYjYzZC1kMjY0MTdiMjlhZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6Ijg2ZWI4YWVkLWQ3MzMtNGUzNS1iNjNkLWQyNjQxN2IyOWFmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
 {
     "name": "Thailand-03 TRUE NoFree",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI5Nzg3OTZkYy04YWFiLTQzNWUtYTU4Yi00ZDYxODYwYjg2NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6Ijk3ODc5NmRjLThhYWItNDM1ZS1hNThiLTRkNjE4NjBiODY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
 {
     "name": "Thailand-04 TRUE NoFree",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiI1NDFhMGMxYy1iZjdlLTQ0MTctYjIzZC0yYTk3YjliNDhhMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6IjU0MWEwYzFjLWJmN2UtNDQxNy1iMjNkLTJhOTdiOWI0OGEyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
+
 {
     "name": "Thailand-05 TRUE NoFree",
-    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imh0ZXQxLnNwYXJ0LmNsb3VkIiwiaWQiOiJjNjYyZDBiYi01ZDZmLTQwMTctOWRiMC01NjVhMzcyOGY1NWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLVZpcDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6ImM2NjJkMGJiLTVkNmYtNDAxNy05ZGIwLTU2NWEzNzI4ZjU1YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-06 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6ImNjMDZmYmQwLWM2NWMtNDY0Zi1hYjA3LTQxZGUwNjBjZDNmZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-07 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6ImJmOThmNzUxLWFmNDAtNDE2MS04ZDM5LTI2MDIxMTEzNDA2NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-08 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6IjJjNzQ5MjM1LTdiNmEtNDI4ZS04MTJlLWI4Nzc5MGI4YTU0NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-09 TRUE NoFree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LmZyZWUxLnZwbnNzaC5vbmxpbmUiLCJpZCI6ImMyMzY4YjAwLTBiZTgtNDZiNC05OThhLWI1Y2VmYzJjNDExNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUtVmlwOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
     ]
     }
