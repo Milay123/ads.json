@@ -4,23 +4,97 @@
 📶Dtac NoPro ✅ 9ဖိုင်
 📶TrueMove NoPro ✅ 9ဖိုင်
 📶AisPlay+64Kbpsစမတ်✅ 9ဖိုင်
-🇳🇪INဆာဗာတစ်ခုတိုး
+🇳🇪IN 🇸🇬SG 🇬🇧Uk 🇭🇰 Hk ပြန်တိုး
 Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "data": [
-{
-    "name": "In-01 AIS Play+64Kbps",
-    "content": "{"stats":{},"log":{"loglevel":"none"},"policy":{"levels":{"8":{"handshake":4,"connIdle":300,"uplinkOnly":1,"downlinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"]}},{"tag":"http","port":10809,"protocol":"http","settings":{"userLevel":8}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"vm.in.servergo.pw","port":443,"users":[{"id":"83e8e17e-4169-4241-a2f3-7da58adc68e0","alterId":0,"security":"auto","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/v2ray-vmess/tls","headers":{"Host":"in.servergo.pw"}},"tlsSettings":{"allowInsecure":true,"serverName":"speedtest.ais.co.th","fingerprint":"randomized"}},"mux":{"enabled":false}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"dns":{"servers":["8.8.8.8"]},"routing":{"domainStrategy":"Asls","rules":[]}}"
-    },
 
 {
-    "name": "In-01 DTAC Nofree",
+    "name": "🇳🇪IN-01 DTAC Nofree",
     "content": "vmess://eyJhZGQiOiJ3d3cub25saW5lbWFuaXBhbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLnNlcnZlcmdvLnB3IiwiaWQiOiI4M2U4ZTE3ZS00MTY5LTQyNDEtYTJmMy03ZGE1OGFkYzY4ZTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXktdm1lc3MvbnRscyIsInBvcnQiOiI4MCIsInBzIjoiaW4uRHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
 
 {
-    "name": "In-01 TRUE Nofree",
+    "name": "🇳🇪IN-01 TRUE Nofree",
     "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLnNlcnZlcmdvLnB3IiwiaWQiOiI4M2U4ZTE3ZS00MTY5LTQyNDEtYTJmMy03ZGE1OGFkYzY4ZTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXktdm1lc3MvbnRscyIsInBvcnQiOiI4MCIsInBzIjoiaW4uVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
+
+{
+    "name": "🇬🇧UK-01 DTAC Nofree",
+    "content": "vmess://eyJhZGQiOiJ3d3cub25saW5lbWFuaXBhbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVrLnNlcnZlcmdvLnB3IiwiaWQiOiJjYzcyMjYxNi0zODBmLTQ2MTUtYTA0NS0xZjNkZmRjZDZlMjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXktdm1lc3MvbnRscyIsInBvcnQiOiI4MCIsInBzIjoidWsuRHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "🇬🇧UK-01 TRUE Nofree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVrLnNlcnZlcmdvLnB3IiwiaWQiOiJjYzcyMjYxNi0zODBmLTQ2MTUtYTA0NS0xZjNkZmRjZDZlMjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXktdm1lc3MvbnRscyIsInBvcnQiOiI4MCIsInBzIjoidWsuVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "🇸🇬Singapore-01 DTAC Nofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d6267687663@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-bghvc%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+Dtac1"
+    },
+
+{
+    "name": "🇸🇬Singapore-02 DTAC Nofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7676637673@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-vvcvsg2%2FSG&security=none&encryption=none&host=sgc-s46.v2sv.xyz&type=ws#%5BSG%5D+Dtac2"
+    },
+
+{
+    "name": "🇸🇬Singapore-03 DTAC Nofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7662636833@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-vbch3%2FSG&security=none&encryption=none&host=sgc-s19.v2sv.xyz&type=ws#%5BSG%5D+DTAC3"
+    },
+
+{
+    "name": "🇸🇬Singapore-01 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d6267687663@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-bghvc%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+True-1"
+    },
+
+{
+    "name": "🇸🇬Singapore-02 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7676637673@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vvcvsg2%2FSG&security=none&encryption=none&host=sgc-s46.v2sv.xyz&type=ws#%5BSG%5D+true2"
+    },
+
+{
+    "name": "🇸🇬Singapore-03 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7662636833@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vbch3%2FSG&security=none&encryption=none&host=sgc-s19.v2sv.xyz&type=ws#%5BSG%5D+True3"
+    },
+
+{
+    "name": "🇭🇰HK-01 DtacNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7663767633@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-vcvv3%2FHK&security=none&encryption=none&host=hkc-s90.v2sv.xyz&type=ws#%5BHK%5D+Dtac1"
+    },
+
+{
+    "name": "🇭🇰HK-02 DtacNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d6276626262@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-bvbbb2%2FHK&security=none&encryption=none&host=hkc-s88.v2sv.xyz&type=ws#%5BHK%5D+Dtac2"
+    },
+
+{
+    "name": "🇭🇰HK-03 DtacNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7666687668@www.onlinemanipal.com:80?path=%2Ffreevpn%2Ffreevpn.us-vfhvhk%2FHK&security=none&encryption=none&host=hkc-s66.v2sv.xyz&type=ws#%5BHK%5D+Dtac3"
+    },
+
+{
+    "name": "🇭🇰HK-01 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7663767633@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vcvv3%2FHK&security=none&encryption=none&host=hkc-s90.v2sv.xyz&type=ws#%5BHK%5D+true1"
+    },
+
+{
+    "name": "🇭🇰HK-02 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7666687668@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vfhvhk%2FHK&security=none&encryption=none&host=hkc-s66.v2sv.xyz&type=ws#%5BHK%5D+true3"
+    },
+
+{
+    "name": "🇭🇰HK-03 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7666687668@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vfhvhk%2FHK&security=none&encryption=none&host=hkc-s66.v2sv.xyz&type=ws#%5BHK%5D+true3"
+    },
+
+
+{
+    "name": "Singapore-03 TrueNofree",
+    "content": "vless://66726565-7670-4e2e-b573-2d7662636833@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vbch3%2FSG&security=none&encryption=none&host=sgc-s19.v2sv.xyz&type=ws#%5BSG%5D+true3"
+    },
+
+
 
     {
     "name": "Thailand-01 AIS Play+64Kbps",
