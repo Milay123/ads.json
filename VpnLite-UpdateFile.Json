@@ -1,5 +1,5 @@
 {
-    "version": 1.5,
+    "version": 1.6,
     "message": "Free100% 
 📶Dtac NoPro ✅ 8ဖိုင်
 📶TrueMove NoPro ✅ 8ဖိုင်
@@ -10,22 +10,32 @@ Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
 
 {
     "name": "India-01 DTAC Nofree",
-    "content": "vless://66726565-7670-4e2e-b573-2d696e696e32@162.159.134.42:80?path=%2Ffreevpn%2Ffreevpn.us-inin2%2FIN&security=none&encryption=none&host=inc-s39.v2sv.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%B3%5BIN%5D29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    "content": "vless://66726565-7670-4e2e-b573-2d7676766e37@162.159.134.42:80?path=%2Ffreevpn%2Ffreevpn.us-vvvn7%2FUS&security=none&encryption=none&host=usc-s7.v2sv.xyz&type=ws#%F0%9F%87%B9%F0%9F%87%AD%F0%9F%87%BA%F0%9F%87%B8%5BUS%5D+29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
     },
 
 {
     "name": "India-02 DTAC Nofree",
-    "content": "vless://66726565-7670-4e2e-b573-2d6964696431@162.159.134.42:80?path=%2Ffreevpn%2Ffreevpn.us-idid1%2FIN&security=none&encryption=none&host=inc-s34.v2sv.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%B3%5BIN%5D29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    "content": "vless://66726565-7670-4e2e-b573-2d6762637331@162.159.134.42:80?path=%2Ffreevpn%2Ffreevpn.us-gbcs15%2FGB&security=none&encryption=none&host=gbc-s15.v2sv.xyz&type=ws#%F0%9F%87%AC%F0%9F%87%A7%5BGB%5D+29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    },
+
+{
+    "name": "India-03 DTAC Nofree",
+    "content": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmluYS5ib25kIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfj4FSRUxBWS0xMDQuMjEuMzAuMjU0LTAxNzIiLCJzY3kiOiJhdXRvIiwic25pIjoibmluYS5ib25kIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 
 {
     "name": "India-01 TRUE Nofree",
-    "content": "vless://66726565-7670-4e2e-b573-2d696e696e32@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-inin2%2FIN&security=none&encryption=none&host=inc-s39.v2sv.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%B3%5BIN%5D29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    "content": "vless://66726565-7670-4e2e-b573-2d7676766e37@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-vvvn7%2FUS&security=none&encryption=none&host=usc-s7.v2sv.xyz&type=ws#%F0%9F%87%B9%F0%9F%87%AD%F0%9F%87%BA%F0%9F%87%B8%5BUS%5D+29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
     },
 
 {
     "name": "India-02 TRUE Nofree",
-    "content": "vless://66726565-7670-4e2e-b573-2d6964696431@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-idid1%2FIN&security=none&encryption=none&host=inc-s34.v2sv.xyz&type=ws#%F0%9F%87%AE%F0%9F%87%B3%5BIN%5D29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    "content": "vless://66726565-7670-4e2e-b573-2d6762637331@topping.truemoveh.com:80?path=%2Ffreevpn%2Ffreevpn.us-gbcs15%2FGB&security=none&encryption=none&host=gbc-s15.v2sv.xyz&type=ws#%F0%9F%87%AC%F0%9F%87%A7%5BGB%5D+29%E1%80%85%E1%80%85%E1%80%99%E1%80%90%E1%80%BA"
+    },
+
+{
+    "name": "India-03 TRUE Nofree",
+    "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5pbmEuYm9uZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4+BUkVMQVktMTA0LjIxLjMwLjI1NC0wMTcyIiwic2N5IjoiYXV0byIsInNuaSI6Im5pbmEuYm9uZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },
 
 {
